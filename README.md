@@ -17,7 +17,7 @@
 
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies-->
 <!--![](https://github-profile-trophy.vercel.app/?username=Shreyya18&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 <!--
 ---
