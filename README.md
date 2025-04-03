@@ -25,8 +25,8 @@
 <!--## 🏆 GitHub Trophies-->
 <!--![](https://github-profile-trophy.vercel.app/?username=Shreyya18&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 <!--
----
-[![](https://visitcount.itsvg.in/api?id=Shreyya18&icon=5&color=6)](https://visitcount.itsvg.in)-->
+----->
+[![](https://visitcount.itsvg.in/api?id=Shreyya18&icon=5&color=6)](https://visitcount.itsvg.in)
 
 
 
